@@ -110,7 +110,7 @@ header{
 
 	text-align: center;
 	background-attachment: relative;
-	background-position: center center;
+	background-position: right justify;
 	min-height: 529px;
 	width: 100%;
 }
@@ -122,7 +122,7 @@ header{
 .myheader h3{
 	font-family: "Raleway";
 	font-size: 20px;
-	color: #fff;
+	color: rgb(255, 255, 255);
 }
 .myheader h5{
 	color: #fff;
