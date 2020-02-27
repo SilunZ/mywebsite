@@ -308,6 +308,62 @@ img:hover
 }
 /* fin de experience*/
 
+/* publication */
+.myPubli{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.myPubli h4{
+	text-transform: uppercase;
+	color: #301b14;
+	font-family: "Raleway",sans-serif;
+	text-align: left;
+}
+.myPubli .date{
+	color: #301b14;
+	font-size: 12px;
+	margin-top: 10px;
+}
+.myPubli .heading{
+	color: #301b14;
+	text-transform: none;
+	font-family: "Verdana";
+	line-height: 24px;
+}
+.myPubli .subheading{
+	color: #E87E04;
+}
+.myPubli ul{
+	margin-left: 0px;
+	margin-top: -5px;
+	list-style-type: none;
+}
+.myPubli i{
+	color: #301b14;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.myPubli a{
+	color: #301b14;
+}
+.myPubli a:link,.myExper a:visited {
+	text-decoration:none;
+	color: #301b14;
+}
+.myPubli a:hover,.myPubli a.focus,.myPubli a.active {
+	outline: 0;
+	color: #E87E04;
+	background-color: transparent;
+}
+.myPubli li{
+	display: table;
+	line-height: 28px;
+}
+.myPubli .distablecell{
+	display: table-cell;
+}
+/* fin de publications*/
+
 /* Comépences */
 .myComp{
 	background: #301b14;
