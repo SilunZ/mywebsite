@@ -129,6 +129,38 @@ header{
 }
 /* fin header */
 
+/* header2 */
+header2{
+	background: #301b14;
+	margin-top: 60px;
+	padding-top: 60px;
+
+	text-align: center;
+	background-attachment: relative;
+	background-position: right justify;
+	min-height: 529px;
+	width: 100%;
+}
+.myheader2{
+	background: #301b14;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.myheader2 h1{
+	font-family: "Raleway";
+	font-size: 80px;
+	color: #fff;
+}
+.myheader2 h3{
+	font-family: "Raleway";
+	font-size: 20px;
+	color: rgb(255, 255, 255);
+}
+.myheader2 h5{
+	color: #fff;
+}
+/* fin header2 */
+
 /* about */
 .myintro{
 	background: #301b14;
